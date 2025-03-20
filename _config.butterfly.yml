@@ -551,6 +551,14 @@ math:
 # 搜索设置
 # --------------------------------------
 
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   template: ./search.xml
+
+# local_search:
+#   enable: true
 search:
   # 选择：algolia_search / local_search / docsearch
   # 如果不需要搜索功能，保持为空
