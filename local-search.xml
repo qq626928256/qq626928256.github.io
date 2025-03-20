@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2025/03/20/ASDLearn/"/>
+    <url>/2025/03/20/ASDLearn/</url>
+    
+    <content type="html"><![CDATA[<h1 id="ASDLearn"><a href="#ASDLearn" class="headerlink" title="ASDLearn"></a>ASDLearn</h1><p>ASDLearn是一款完全免费的用于孤独症（自闭症）患者的训练APP。</p><p>我是一名孤独症孩子的父亲，在接触过部分孤独症训练软件后，萌生了自己做一款训练软件的想法，所以利用孩子晚上入睡的时间开发了这个项目用于孩子的平时干预训练，希望这个项目也能帮助到其他人。</p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a><a href="https://www.pgyer.com/6oqwJ18R">下载地址</a></h1><h2 id="注意"><a href="#注意" class="headerlink" title="&#x3D;&#x3D;注意&#x3D;&#x3D;"></a><strong>&#x3D;&#x3D;注意&#x3D;&#x3D;</strong></h2><ul><li><strong>&#x3D;&#x3D;建议使用平板进行训练，手机屏幕较小。&#x3D;&#x3D;</strong></li><li><strong>&#x3D;&#x3D;因为我家孩子属于中重度Autism，所以项目内课程也许并不适合所有的谱系患者，请自行尝试。&#x3D;&#x3D;</strong></li><li><strong>&#x3D;&#x3D;因为平时训练时可能会因为误触导致训练退出，所以训练中的很多按钮，例如返回按钮，需要双击。&#x3D;&#x3D;</strong></li></ul><hr><p>目前的训练功能有</p><table><thead><tr><th>认知类功能</th><th></th><th></th></tr></thead><tbody><tr><td>认知_颜色</td><td>认知_动物</td><td>认知_蔬菜</td></tr><tr><td>认知_食物</td><td>认知_水果</td><td>认知_交通工具</td></tr><tr><td>认知_地点</td><td>认知_衣服</td><td>认知_家具</td></tr><tr><td>认知_身体器官</td><td>认知_职业</td><td>认知_日用品</td></tr><tr><td>认知_电器</td><td>认知_餐具</td><td>认知_形状</td></tr><tr><td>认知_饮品</td><td>认知_天气</td><td>认知_动词</td></tr><tr><td>认知_自然</td><td>认知_玩具</td><td>认知_称呼</td></tr><tr><td>认知_情绪</td><td>认知_前后</td><td>认知_左右</td></tr><tr><td>认知_上下</td><td>认知_里外</td><td>认知_给予</td></tr><tr><td>认知_数字</td><td></td><td></td></tr></tbody></table><hr><table><thead><tr><th>互动式语言</th><th></th><th></th></tr></thead><tbody><tr><td>互动式语言_什么</td><td>互动式语言_哪里</td><td>互动式语言_干什么</td></tr><tr><td>互动式语言_谁</td><td>互动式语言_什么颜色</td><td>互动式语言_什么形状</td></tr></tbody></table><hr><table><thead><tr><th>相对形容词</th><th></th><th></th></tr></thead><tbody><tr><td>相对形容词_大小</td><td>相对形容词_多少</td><td>相对形容词_粗细</td></tr><tr><td>相对形容词_长短</td><td>相对形容词_高低</td><td>相对形容词_宽窄</td></tr><tr><td>相对形容词_里外</td><td>相对形容词_新旧</td><td>相对形容词_胖瘦</td></tr><tr><td>相对形容词_厚薄</td><td>相对形容词_颜色深浅</td><td></td></tr></tbody></table><hr><table><thead><tr><th>其他</th><th></th><th></th></tr></thead><tbody><tr><td>声音大小</td><td>类型</td><td>舒尔特方格</td></tr><tr><td>记忆卡</td><td>记忆搜寻</td><td>汉字</td></tr><tr><td>分类</td><td>相对概念_厕所标志</td><td>匹配_职业</td></tr></tbody></table><p><strong>&#x3D;&#x3D;P.S. 因为不懂美术，所以App内的UI等资源都比较粗糙，如果有家长愿意帮助美化的话，可以联系我&#x3D;&#x3D;</strong></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/03/20/hello-world/"/>
+    <url>/2025/03/20/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
