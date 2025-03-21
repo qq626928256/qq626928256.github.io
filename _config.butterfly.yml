@@ -26,10 +26,17 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  自闭症资源: /tags/自闭症资源/ ||fas fa-list
-  书籍分享: /tags/书籍分享/ || fas fa-book
-  自闭症影视: / || fas fa-video
+  自闭症资源: /categories/ASDRes/ ||fas fa-list
+  书籍分享: /categories/BookShare/ || fas fa-book
+  自闭症影视: /categories/ASDMovie/ || fas fa-video
   关于: /about/ || fas fa-heart
+
+category_map:
+    自闭症资源: ASDRes
+    书籍分享: BookShare
+    自闭症影视: ASDMovie
+tag_map:
+    自闭症资源: ASDRes
 
 # --------------------------------------
 # 代码块设置
@@ -67,12 +74,12 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
+favicon: /Images/SiteLogo/SiteLogo_512x512.png
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/OceanIcon.jpg
+  img: /Images/HeadIcon/OceanIcon.jpg
   # 是否启用头像效果
   effect: false
 
@@ -80,10 +87,10 @@ avatar:
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
+default_top_img: 
 
 # 主页的横幅图片
-index_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
+index_img: /Images/Background/default_bg.jpg
 
 # 归档页的横幅图片
 archive_img:
@@ -254,10 +261,10 @@ reward:
   # 打赏案例文本
   text:
   QR_code:
-    - img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/wechat.jpg
-      link:
+    - img: /Images/PayImg/Wechat.jpg 
+      link: 
       text: 微信
-    - img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/aliPay.jpg
+    - img: /Images/PayImg/AliPay.jpg 
       link:
       text: 支付宝
 
