@@ -18,7 +18,7 @@ url: https://zhuye.space
 
 nav:
   # 导航栏 Logo 图片
-  logo: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/202503041643540.png
+  logo: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
   # 是否显示标题
   display_title: true
   # 是否固定导航栏
@@ -67,12 +67,12 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/202503041643540.png
+favicon: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/202503041641599.jpg
+  img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/OceanIcon.jpg
   # 是否启用头像效果
   effect: false
 
@@ -80,10 +80,10 @@ avatar:
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img:
+default_top_img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
 
 # 主页的横幅图片
-index_img:
+index_img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
 
 # 归档页的横幅图片
 archive_img:
@@ -200,7 +200,7 @@ subtitle:
   source: false
   # 如果关闭打字机效果，副标题将仅显示 sub 的第一行内容
   sub:
-    - 自闭资源分享
+    - 祝TA的未来能够更好
 
 # 首页文章佈局
 # 1: 行佈局
@@ -254,10 +254,10 @@ reward:
   # 打赏案例文本
   text:
   QR_code:
-    - img: /img/wechat.jpg
+    - img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/wechat.jpg
       link:
       text: 微信
-    - img: /img/alipay.jpg
+    - img: https://cdn.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/aliPay.jpg
       link:
       text: 支付宝
 
