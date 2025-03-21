@@ -1,7 +1,5 @@
 ---
 title: 分类
-categories:
-    - 书籍分享
-    - 自闭症相关
+date: 2023-04-01 12:00:00
+type: "categories"
 ---
-
