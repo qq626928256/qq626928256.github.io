@@ -23,7 +23,7 @@ url: https://zhuye.space
 
 nav:
   # 导航栏 Logo 图片
-  logo: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
+  logo: https://raw.gitcode.com/qq626928256/PicBed/raw/main/SiteLogo_512x512.png
   # 是否显示标题
   display_title: true
   # 是否固定导航栏
@@ -79,12 +79,12 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
+favicon: https://raw.gitcode.com/qq626928256/PicBed/raw/main/OceanIcon.jpg
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/OceanIcon.jpg
+  img: https://raw.gitcode.com/qq626928256/PicBed/raw/main/OceanIcon.jpg
   # 是否启用头像效果
   effect: false
 
@@ -92,10 +92,10 @@ avatar:
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
+default_top_img: https://raw.gitcode.com/qq626928256/PicBed/raw/main/default_bg.jpg
 
 # 主页的横幅图片
-index_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
+index_img: https://raw.gitcode.com/qq626928256/PicBed/raw/main/default_bg.jpg
 
 # 归档页的横幅图片
 archive_img:
