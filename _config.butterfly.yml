@@ -74,12 +74,12 @@ social:
 # --------------------------------------
 
 # 网站的 favicon 图标
-favicon: /Images/SiteLogo/SiteLogo_512x512.png
+favicon: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/SiteLogo_512x512.png
 
 # 头像设置
 avatar:
   # 头像图片链接
-  img: /Images/HeadIcon/OceanIcon.jpg
+  img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/OceanIcon.jpg
   # 是否启用头像效果
   effect: false
 
@@ -87,10 +87,10 @@ avatar:
 disable_top_img: false
 
 # 如果页面未设置横幅，则显示默认的横幅图片
-default_top_img: 
+default_top_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
 
 # 主页的横幅图片
-index_img: /Images/Background/default_bg.jpg
+index_img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/default_bg.jpg
 
 # 归档页的横幅图片
 archive_img:
@@ -261,10 +261,10 @@ reward:
   # 打赏案例文本
   text:
   QR_code:
-    - img: /Images/PayImg/Wechat.jpg 
+    - img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/wechat.jpg
       link: 
       text: 微信
-    - img: /Images/PayImg/AliPay.jpg 
+    - img: https://fastly.jsdelivr.net/gh/JetMartin1019/picBed/Blog_ZhuYe/aliPay.jpg
       link:
       text: 支付宝
 
@@ -313,7 +313,7 @@ footer:
     # 是否启用所有者显示
     enable: true
     # 网站创建年份
-    since: 2019
+    since: 2024
   # 自定义文本
   custom_text:
   # 主题和框架的版权声明
@@ -875,39 +875,39 @@ site_verification:
 # 注意：颜色值必须用双引号，如 "#000"，否则可能会导致错误！
 
 # 主题颜色配置
-# theme_color:
+theme_color:
 #   是否启用主题颜色
-#   enable: true
+  enable: true
 #   主颜色
-#   main: "#49B1F5"
+  main: "#49B1F5"
 #   分页器颜色
-#   paginator: "#00c4b6"
+  paginator: "#00c4b6"
 #   按钮悬停颜色
-#   button_hover: "#FF7242"
+  button_hover: "#FF7242"
 #   文本选择颜色
-#   text_selection: "#00c4b6"
+  text_selection: "#00c4b6"
 #   链接颜色
-#   link_color: "#99a9bf"
+  link_color: "#99a9bf"
 #   元数据颜色
-#   meta_color: "#858585"
+  meta_color: "#858585"
 #   水平线颜色
-#   hr_color: "#A4D8FA"
+  hr_color: "#A4D8FA"
 #   代码前景色
-#   code_foreground: "#F47466"
+  code_foreground: "#F47466"
 #   代码背景色
-#   code_background: "rgba(27, 31, 35, .05)"
+  code_background: "rgba(27, 31, 35, .05)"
 #   目录颜色
-#   toc_color: "#00c4b6"
+  toc_color: "#00c4b6"
 #   引用块填充颜色
-#   blockquote_padding_color: "#49b1f5"
+  blockquote_padding_color: "#49b1f5"
 #   引用块背景颜色
-#   blockquote_background_color: "#49b1f5"
+  blockquote_background_color: "#49b1f5"
 #   滚动条颜色
-#   scrollbar_color: "#49b1f5"
+  scrollbar_color: "#49b1f5"
 #   浅色模式下的主题颜色
-#   meta_theme_color_light: "ffffff"
+  meta_theme_color_light: "ffffff"
 #   深色模式下的主题颜色
-#   meta_theme_color_dark: "#0d0d0d"
+  meta_theme_color_dark: "#0d0d0d"
 
 # 分类和标签页面的用户界面设置
 # 选择：index - 与主页 UI 相同 / default - 与归档 UI 相同
