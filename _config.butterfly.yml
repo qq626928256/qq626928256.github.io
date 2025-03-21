@@ -5,9 +5,14 @@
 # 网站标题
 title: 烛夜
 # 网站描述
-description: '自闭资源分享'
+description: '码农，谱系娃爸爸。'
 # 网站的关键词。 支持多个关键词。
-keywords: '自闭症'
+keywords: 
+  - 自闭症
+  - 孤独症
+  - ASD
+  - Autism
+  - 自闭症资源
 # 您的名字
 author: Demon
 # 网站使用的语言
@@ -26,17 +31,17 @@ nav:
 
 menu:
   首页: / || fas fa-home
-  自闭症资源: /categories/ASDRes/ ||fas fa-list
-  书籍分享: /categories/BookShare/ || fas fa-book
-  自闭症影视: /categories/ASDMovie/ || fas fa-video
+  自闭症资源: /categories/自闭症资源/ ||fas fa-list
+  书籍分享: /categories/书籍分享/ || fas fa-book
+  自闭症影视: /categories/影视分享/ || fas fa-video
   关于: /about/ || fas fa-heart
 
+default_category: uncategorized
 category_map:
     自闭症资源: ASDRes
     书籍分享: BookShare
-    自闭症影视: ASDMovie
-tag_map:
-    自闭症资源: ASDRes
+    影视分享: ASDMovie
+
 
 # --------------------------------------
 # 代码块设置
@@ -67,7 +72,7 @@ code_blocks:
 #   icon: 链接 || 描述 || 颜色
 social:
   fas fa-envelope: mailto:jetmartin@vip.qq.com || Email || "#000000"
-  fa-brands fa-weixin: mailto:qq626928256@gmail.com || 微信 || "#000000"
+  # fa-brands fa-weixin: mailto:qq626928256@gmail.com || 微信 || "#000000"
 
 # --------------------------------------
 # 图片设置
@@ -357,9 +362,9 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     # 是否显示公告卡片
-    enable: true
+    enable: false
     # 公告内容
-    content: 码农，谱系娃爸爸。
+    content: 
   card_recent_post:
     # 是否显示最近文章卡片
     enable: true
